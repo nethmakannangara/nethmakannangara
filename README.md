@@ -5,7 +5,7 @@
 
 </font>
 
-### I’m an Aspiring Full-Stack Developer & a Bio Sciences Undergraduate. 🧑‍💻  
+### I’m an Aspiring Full-Stack Developer. 🧑‍💻  
 #### Passionate about coding and problem-solving! ✨  
 I thrive on exploring technologies, building innovative solutions, and contributing to impactful projects. I focus on creating seamless user experiences with clean, efficient code.
 
